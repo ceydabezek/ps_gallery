@@ -16,4 +16,3 @@ Questa è una landing page moderna e responsive sviluppata con React. Include un
 - Transizioni fluide
 - Footer con contatti
 
-# ps_galleryy
